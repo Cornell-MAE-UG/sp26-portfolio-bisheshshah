@@ -5,7 +5,9 @@ permalink: /cv/
 ---
 ## Bishesh Shah
 
-[Download my CV]({{ "/assets/Resume_Bishesh_Shah (4).pdf" | relative_url }}) in PDF format.
+<a href="/assets/Resume_Bishesh_Shah%20%20(4).pdf" target="_blank">
+Download Resume
+</a>
 
 
 **Email:** [bs897@cornell.edu](mailto:bs897@cornell.edu) | | | **Phone:** +1 (929) 326-7535
