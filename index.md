@@ -6,7 +6,9 @@ title: <Bishesh Shah>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/BIshesh Shah-10.jpg" | relative_url }}){: class="profile-image"}
+<a href="/assets/image/BIshesh Shah-10.jpg" target="_blank">
+  View Photo
+</a>
 
  
 I’m a Mechanical Engineering student at Cornell University with a strong interest in mechanical design, manufacturing, energy, and system maintenance.
