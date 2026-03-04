@@ -1,12 +1,25 @@
 ---
 layout: project
-title: Nutcrack Design
+title: Nutcracker Design
 description: Design Project
 technologies: Autodesk Fusion 360
 image: /assets/images/Nutcracker.jpg
 ---
 
-This model captures the iconic silhouette in CAD form, from its wide stable base and sturdy cylindrical legs, through the belted torso and blocky arms, up to the expressive spherical head crowned with its signature tall hat. Every component reflects the geometry of the traditional carved wooden figure, simplified into clean primitive solids suitable for 3D printing, rendering, or further design work.
+Problem Statement & Objective (Find):
+Design a 3D CAD model of a traditional nutcracker soldier figurine using only primitive solid bodies, suitable for 3D printing or further modification in Autodesk Fusion 360.2. 
 
-Attached I have provided a rough 3D model, I designed in Autodesk Fusion 360.
-/assets/images/Nutcracker.jpg
+Constraints & Input Parameters (Given): 
+Geometry limited to cylinders, spheres, and rectangular extrusions
+Model must stand upright on a flat base
+Target height ~17 cm (decorative figurine scale)
+No overhangs exceeding 45° from vertical
+Static model (no moving jaw mechanism)
+Built along the Z-axis from Z=0, centred at X=0, Y=0
+All units in centimetres
+
+Approach:
+The model was built bottom-up in anatomical order, base, legs, pelvis, torso, belt, chest, arms, hands, neck, head, facial features, hat. Each part is a named primitive solid, mirrored symmetrically about the XZ plane where applicable. Cylinders approximate the lathe-turned wooden forms of real nutcrackers; the head and hands are spheres; arms are simplified rectangular boxes. The Fusion 360 Python API was used to script every body parametrically, making the model easy to rescale.
+
+Discussion on Usability:
+The primitive-body approach keeps the model clean, watertight, and 3D-print-ready with no non-manifold geometry. Each body can be edited or deleted independently. Limitations include simplified box arms (vs. rounded), no functional jaw mechanism, and minimal facial detail. To finalise for printing, all bodies should be merged using Modify → Combine → Join in Fusion 360.

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Bishesh Shah
 permalink: /cv/
 ---
-## Curriculum Vitae
+## Bishesh Shah
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Resume_Bishesh_Shah (4).pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [bs897@cornell.edu](mailto:bs897@cornell.edu) | | | **Phone:** +1 (929) 326-7535
