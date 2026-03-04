@@ -8,28 +8,30 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [bs897@cornell.edu](mailto:bs897@cornell.edu) | | | **Phone:** +1 (929) 326-7535
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+I'm a Mechanical Engineering student at Cornell University with a passion for innovative design, precision manufacturing, and sustainable energy solutions. My academic journey has equipped me with a strong foundation in mechanical systems, materials science, and engineering principles.
+
+Through hands-on projects and research, I've developed expertise in CAD modeling, prototyping, and engineering analysis. I'm actively seeking internship opportunities where I can apply my skills and contribute to meaningful engineering challenges.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering*  
+  GPA: 3.5/4.0 | Graduation: May, 2028
 
-- **[High School Name]**  
+- **Stuyvesant High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May 2028
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks, JMars  
 - **Programming:** Python, MATLAB  
 - **Tools:** 3D Printing, Laser Cutting  
 
