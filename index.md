@@ -6,7 +6,7 @@ title: <Bishesh Shah>
 ## About Me
 
 
-<a href="/assets/image/BIshesh Shah-10.jpg" target="_blank">
+<a href="/assets/BIshesh Shah-10.jpg" target="_blank">
   View Photo
 </a>
 
