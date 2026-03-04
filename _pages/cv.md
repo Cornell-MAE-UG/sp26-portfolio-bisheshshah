@@ -38,39 +38,39 @@ Through hands-on projects and research, I've developed expertise in CAD modeling
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Solar Panel Reboot**:  
+Created and tested the viscosity of coatings to protect solar panels from debris and improve efficiency by 10%
+Collaborated with interdisciplinary team to design, install, and maintain solar power systems for campus sustainability projects
+Assisted in system troubleshooting, regular maintenance, and performance monitoring via data logging and analysis
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+
+- **NASA L'SPACE PROGRAM**:  
+Led CAD design and modeling of mechanical subsystems using Siemens NX to support spacecraft concept development
+Created detailed models of scientific instruments and responsible for layout to ensure structural integrity and spatial efficiency
+Presented finalized designs based on mission requirements, mass constraints, and mentor feedback to NASA professionals
+ 
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Woods Hole Oceanographic Institute - Intern**  
+  May 2025 - June 2025  
+Performed CAD modeling and layout design for junction box to hold radios and make waterproof
+Tested radio systems using multimeters and performed crimping and rewiring to configure radios for Ethernet and 4-plug inputs
+Restored operational capability of radio system by replacing 13 of 14, delivering a functional end-to-end communications network
+
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- AutoCAD Certification, Autodesk, 2024  
+- NX Design Certification, Siemens, 2025  
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
-
----
-
-#### References
-Available upon request.
+- Member of American Society of Mechanical Engineers (ASME) at Cornell  
+- Dancer for Cornell Sitara 
+- Teaching Assistant for ENGRI 1165: Climate Change and You, the Engineer 
 
 ---
