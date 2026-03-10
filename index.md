@@ -7,6 +7,7 @@ title: <Bishesh Shah>
 
 
 <a href="/assets/BIshesh Shah-10.jpg" target="_blank">
+  View Photo
 </a>
 
  
