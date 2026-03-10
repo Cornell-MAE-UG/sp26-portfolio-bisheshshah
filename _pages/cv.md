@@ -24,11 +24,11 @@ Through hands-on projects and research, I've developed expertise in CAD modeling
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical Engineering*  
-  GPA: 3.5/4.0 | Graduation: May, 2028
+  GPA: 3.5/4.0 | Graduation: May 2028
 
 - **Stuyvesant High School**  
   *High School Diploma*  
-  Graduation: May 2028
+  Graduation: May 2024
 
 ---
 
