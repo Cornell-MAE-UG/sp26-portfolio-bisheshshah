@@ -6,7 +6,7 @@ title: <Bishesh Shah>
 ## About Me
 
 
-<img src="/assets/images/BisheshPhoto.jpg" alt="Bishesh Shah" width="300">
+<img src="/assets/images/BisheshPhoto.jpg" width="300">
 
  
 I’m a Mechanical Engineering student at Cornell University with a strong interest in mechanical design, manufacturing, energy, and system maintenance.
