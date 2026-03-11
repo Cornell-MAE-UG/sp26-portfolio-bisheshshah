@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Bishesh Shah
 
-<a href="/assets/Resume_Bishesh_Shah.pdf" target="_blank">
+<a href="{{ "/assets/Resume_Bishesh_Shah.pdf" | relative_url }}" target="_blank">
 Download Resume
 </a>
 
